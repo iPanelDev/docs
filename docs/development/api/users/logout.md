@@ -2,7 +2,7 @@
 
 `/api/users/@self/logout`
 
-:::caution
+:::warning
 此操作会删除会话Cookie缓存
 :::
 

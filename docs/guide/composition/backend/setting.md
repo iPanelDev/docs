@@ -73,7 +73,7 @@
 
 是否允许[跨源请求](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CORS)
 
-:::caution
+:::warning
 不建议修改，除非你知道你在做什么
 :::
 
@@ -86,7 +86,7 @@
 
 超出限制后，请求IP将被封禁半小时，期间一切请求均返回403 Forbidden
 
-:::caution
+:::warning
 不建议修改，除非你知道你在做什么
 :::
 
@@ -104,7 +104,7 @@
 
 ### certificate
 
-:::caution
+:::warning
 不建议修改，除非你知道你在做什么
 :::
 
@@ -156,6 +156,6 @@ iPanel支持使用SSL开启Http服务器
 - 类型：`boolean`
 - 默认值：`false`
 
-:::caution
+:::warning
 不建议修改，除非你知道你在做什么
 :::

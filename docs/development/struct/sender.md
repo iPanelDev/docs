@@ -5,7 +5,7 @@
 | name       | 自定义名称 | string               |
 | type       | 发送者类型 | string               |
 | address    | 地址       | string               |
-| metadata   | 元数据     | [Metadata](Metadata) |
+| metadata   | 元数据     | [Metadata](metadata) |
 | instanceId | 实例ID     | string               |
 
 一个包含了发送者信息的对象
